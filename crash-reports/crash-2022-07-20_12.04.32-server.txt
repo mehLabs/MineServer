@@ -1,0 +1,53 @@
+---- Minecraft Crash Report ----
+// Surprise! Haha. Well, this is awkward.
+
+Time: 20/7/22 12:04
+Description: Exception in server tick loop
+
+java.lang.IllegalStateException: Failed to initialize server
+	at net.minecraft.server.MinecraftServer.v(SourceFile:678)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:258)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.19
+	Minecraft Version ID: 1.19
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 18, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode, sharing), Oracle Corporation
+	Memory: 934318592 bytes (891 MiB) / 1073741824 bytes (1024 MiB) up to 1073741824 bytes (1024 MiB)
+	CPUs: 4
+	Processor Vendor: GenuineIntel
+	Processor Name: Intel(R) Core(TM) i5-4200M CPU @ 2.50GHz
+	Identifier: Intel64 Family 6 Model 60 Stepping 3
+	Microarchitecture: Haswell (Client)
+	Frequency (GHz): 2,49
+	Number of physical packages: 1
+	Number of physical CPUs: 2
+	Number of logical CPUs: 4
+	Graphics card #0 name: Intel(R) HD Graphics 4600
+	Graphics card #0 vendor: Intel Corporation (0x8086)
+	Graphics card #0 VRAM (MB): 1024,00
+	Graphics card #0 deviceId: 0x0416
+	Graphics card #0 versionInfo: DriverVersion=20.19.15.5171
+	Memory slot #0 capacity (MB): 4096,00
+	Memory slot #0 clockSpeed (GHz): 1,33
+	Memory slot #0 type: DDR3
+	Memory slot #1 capacity (MB): 4096,00
+	Memory slot #1 clockSpeed (GHz): 1,33
+	Memory slot #1 type: DDR3
+	Virtual memory max (MB): 16177,33
+	Virtual memory used (MB): 9013,05
+	Swap memory total (MB): 8088,66
+	Swap memory used (MB): 690,42
+	JVM Flags: 2 total; -Xmx1024M -Xms1024M
+	Server Running: true
+	Data Packs: vanilla
+	World Generation: Stable
+	Is Modded: Probably not. Server jar signature and brand is untouched
+	Type: Dedicated Server (map_server.txt)
