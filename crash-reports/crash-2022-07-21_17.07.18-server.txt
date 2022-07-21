@@ -1,0 +1,53 @@
+---- Minecraft Crash Report ----
+// Shall we play a game?
+
+Time: 21/7/22 17:07
+Description: Exception in server tick loop
+
+java.lang.IllegalStateException: Failed to initialize server
+	at net.minecraft.server.MinecraftServer.v(SourceFile:678)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:258)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.19
+	Minecraft Version ID: 1.19
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 18.0.2, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode, sharing), Oracle Corporation
+	Memory: 924114328 bytes (881 MiB) / 1073741824 bytes (1024 MiB) up to 1073741824 bytes (1024 MiB)
+	CPUs: 3
+	Processor Vendor: AuthenticAMD
+	Processor Name: AMD Athlon(tm) II X3 455 Processor
+	Identifier: AuthenticAMD Family 16 Model 5 Stepping 3
+	Microarchitecture: K10
+	Frequency (GHz): 3,32
+	Number of physical packages: 1
+	Number of physical CPUs: 3
+	Number of logical CPUs: 3
+	Graphics card #0 name: AMD Radeon HD 6570
+	Graphics card #0 vendor: Advanced Micro Devices, Inc. (0x1002)
+	Graphics card #0 VRAM (MB): 1024,00
+	Graphics card #0 deviceId: 0x6759
+	Graphics card #0 versionInfo: DriverVersion=15.201.1151.1008
+	Memory slot #0 capacity (MB): 2048,00
+	Memory slot #0 clockSpeed (GHz): 0,67
+	Memory slot #0 type: Other
+	Memory slot #1 capacity (MB): 4096,00
+	Memory slot #1 clockSpeed (GHz): 0,67
+	Memory slot #1 type: Other
+	Virtual memory max (MB): 8447,36
+	Virtual memory used (MB): 3558,63
+	Swap memory total (MB): 2304,00
+	Swap memory used (MB): 3,55
+	JVM Flags: 2 total; -Xmx1024M -Xms1024M
+	Server Running: true
+	Data Packs: vanilla
+	World Generation: Stable
+	Is Modded: Probably not. Server jar signature and brand is untouched
+	Type: Dedicated Server (map_server.txt)
