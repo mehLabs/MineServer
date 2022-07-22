@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "2f38360d-4751-3954-9eec-89a67576edc8",
+    "name": "FedeItu",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
