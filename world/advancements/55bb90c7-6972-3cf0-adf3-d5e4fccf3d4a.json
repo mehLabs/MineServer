@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2022-07-22 20:49:49 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2022-07-19 19:59:38 -0300"
@@ -218,6 +224,12 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2022-07-20 19:35:08 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2022-07-22 21:59:08 -0300"
     },
     "done": true
   },
@@ -395,6 +407,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2022-07-22 21:58:58 -0300"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2022-07-19 18:05:02 -0300"
@@ -509,6 +527,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2022-07-22 21:58:58 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2022-07-19 18:58:31 -0300"
@@ -520,6 +544,7 @@
       "minecraft:pillager": "2022-07-20 16:33:55 -0300",
       "minecraft:skeleton": "2022-07-19 18:04:27 -0300",
       "minecraft:hoglin": "2022-07-20 20:10:12 -0300",
+      "minecraft:vindicator": "2022-07-22 20:50:16 -0300",
       "minecraft:spider": "2022-07-19 18:07:12 -0300",
       "minecraft:piglin_brute": "2022-07-20 20:11:22 -0300",
       "minecraft:creeper": "2022-07-19 18:54:40 -0300",
@@ -1082,6 +1107,7 @@
       "minecraft:savanna_plateau": "2022-07-21 10:42:47 -0300",
       "minecraft:beach": "2022-07-20 22:52:54 -0300",
       "minecraft:dark_forest": "2022-07-20 16:00:29 -0300",
+      "minecraft:stony_peaks": "2022-07-22 22:20:18 -0300",
       "minecraft:mangrove_swamp": "2022-07-20 23:09:14 -0300",
       "minecraft:sparse_jungle": "2022-07-20 22:55:57 -0300",
       "minecraft:river": "2022-07-19 17:49:54 -0300",
@@ -1222,6 +1248,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2022-07-21 20:43:39 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2022-07-22 21:58:58 -0300"
     },
     "done": true
   },
@@ -1406,6 +1438,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2022-07-22 20:52:29 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2022-07-20 20:04:07 -0300"
@@ -1478,6 +1516,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2022-07-22 21:58:58 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2022-07-21 20:43:39 -0300"
@@ -1499,6 +1543,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2022-07-19 17:48:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2022-07-22 21:58:58 -0300"
     },
     "done": true
   },
@@ -1741,6 +1791,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2022-07-22 21:58:58 -0300"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2022-07-19 17:46:48 -0300"
@@ -1921,6 +1977,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2022-07-22 21:58:58 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2022-07-22 21:59:08 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2022-07-22 21:58:58 -0300"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2022-07-20 19:45:44 -0300"
@@ -1987,6 +2061,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2022-07-22 21:58:58 -0300"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2022-07-19 17:50:30 -0300"
@@ -1996,6 +2076,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2022-07-21 20:48:48 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2022-07-22 21:58:58 -0300"
     },
     "done": true
   },
@@ -2092,6 +2178,12 @@
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2022-07-19 17:43:47 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2022-07-22 21:58:58 -0300"
     },
     "done": true
   },
@@ -2353,6 +2445,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2022-07-22 21:59:08 -0300"
+    },
+    "done": true
+  },
   "minecraft:nether/loot_bastion": {
     "criteria": {
       "loot_bastion_other": "2022-07-20 20:04:04 -0300"
@@ -2431,6 +2529,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2022-07-22 22:15:17 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2022-07-19 17:43:47 -0300"
@@ -2494,6 +2598,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2022-07-19 17:49:00 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2022-07-22 21:58:58 -0300"
     },
     "done": true
   },

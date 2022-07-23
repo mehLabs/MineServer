@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2022-07-22 18:14:18 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
     "criteria": {
       "has_white_tulip": "2022-07-22 01:35:46 -0300"
@@ -380,6 +386,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2022-07-19 19:16:28 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2022-07-22 18:14:18 -0300"
     },
     "done": true
   },
@@ -1472,6 +1484,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2022-07-22 18:14:18 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2022-07-19 17:55:55 -0300"
@@ -1511,6 +1529,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2022-07-19 18:26:56 -0300",
+      "honey_bottle": "2022-07-22 18:45:03 -0300",
       "cooked_mutton": "2022-07-19 17:54:10 -0300",
       "cooked_beef": "2022-07-19 19:05:15 -0300",
       "cooked_cod": "2022-07-20 19:49:01 -0300",
@@ -1650,6 +1669,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2022-07-19 18:08:18 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2022-07-22 18:14:18 -0300"
     },
     "done": true
   },
@@ -1971,6 +1996,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
+    "criteria": {
+      "walk_on_powder_snow_with_leather_boots": "2022-07-22 18:37:31 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2022-07-19 17:47:11 -0300"
@@ -2223,6 +2254,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2022-07-22 18:14:18 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2022-07-19 17:58:22 -0300"
@@ -2340,6 +2377,12 @@
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_item_frame": "2022-07-20 18:18:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2022-07-22 18:14:18 -0300"
     },
     "done": true
   },
