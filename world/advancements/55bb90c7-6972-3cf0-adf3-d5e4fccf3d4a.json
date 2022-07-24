@@ -551,6 +551,7 @@
       "minecraft:zombified_piglin": "2022-07-20 20:25:03 -0300",
       "minecraft:witch": "2022-07-21 11:31:20 -0300",
       "minecraft:piglin": "2022-07-20 20:22:12 -0300",
+      "minecraft:enderman": "2022-07-23 14:46:16 -0300",
       "minecraft:zombie": "2022-07-19 17:56:33 -0300",
       "minecraft:drowned": "2022-07-19 18:33:25 -0300"
     },
@@ -775,6 +776,12 @@
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2022-07-19 18:42:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2022-07-23 14:21:24 -0300"
     },
     "done": true
   },
@@ -1118,6 +1125,7 @@
       "minecraft:grove": "2022-07-21 19:48:47 -0300",
       "minecraft:jagged_peaks": "2022-07-20 19:33:37 -0300",
       "minecraft:forest": "2022-07-19 17:40:49 -0300",
+      "minecraft:lush_caves": "2022-07-23 14:19:23 -0300",
       "minecraft:ocean": "2022-07-20 22:56:12 -0300",
       "minecraft:jungle": "2022-07-20 23:04:40 -0300",
       "minecraft:deep_lukewarm_ocean": "2022-07-20 23:05:19 -0300",
@@ -1617,6 +1625,8 @@
       "mutton": "2022-07-19 17:49:40 -0300",
       "bread": "2022-07-19 19:03:03 -0300",
       "rotten_flesh": "2022-07-19 18:49:34 -0300",
+      "glow_berries": "2022-07-23 14:26:15 -0300",
+      "salmon": "2022-07-23 14:35:02 -0300",
       "cooked_chicken": "2022-07-19 18:33:43 -0300",
       "cooked_salmon": "2022-07-19 17:55:21 -0300",
       "carrot": "2022-07-21 20:54:48 -0300"
@@ -2217,6 +2227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2022-07-23 14:21:24 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2022-07-19 17:53:51 -0300"
@@ -2310,6 +2326,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-07-19 18:10:03 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2022-07-23 14:21:24 -0300"
     },
     "done": true
   },
